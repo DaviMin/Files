@@ -20,3 +20,6 @@ file = open("first_file.txt", "a")
 file.writelines("\ndruhy radek")
 # \n tak se to znaci enter - ted se muzu podivat do first_file.txt, jak je to tam psane
 
+
+
+print("Druhe poslani")
